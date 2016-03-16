@@ -15,7 +15,7 @@ Huang, K., Ritland, K., Guo, S., Shattuck, M. and Li, B. (2014), A pairwise rela
 
 Polyploid maximum-likelihood estimator
 
-Huang K, Guo ST, Shattuck MR, Chen ST, Qi XG, Zhang P, Li BG (2015) A maximum-likelihood estimation of pairwise relatedness for autopolyploids. Heredity, 114, 133-142. PDF: https://github.com/huangkang1987/polyrelatedness/raw/master/hdy.2014.88.pdf
+Huang K, Guo ST, Shattuck MR, Chen ST, Qi XG, Zhang P, Li BG (2015) A maximum-likelihood estimation of pairwise relatedness for autopolyploids. Heredity, 114, 133-142. PDF: https://github.com/huangkang1987/polyrelatedness/raw/master/hdy201488a.pdf
 
 Estimators between individuals with different levels of ploidy
 
