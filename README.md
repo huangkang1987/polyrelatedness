@@ -3,9 +3,9 @@ PolyRelatedness
 This computer program is able to calculate the relatedness coefficient for polyploids, aneuploid, or between different levels of ploidy.
 Downloads:
 
-V1.6b For Windows, Ubuntu and Mac OS X
+V1.7 For Windows, Ubuntu and Mac OS X
 
-https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.6b.zip
+https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.7.zip
 
 Citation:
 
