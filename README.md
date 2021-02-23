@@ -4,9 +4,9 @@ This computer program is able to calculate the relatedness coefficient for polyp
 Downloads:
 
 
-V1.10 (64 bit only) For Windows, Ubuntu and Mac OS X
+V1.11 (64 bit only) For Windows, Ubuntu and Mac OS X
 
-https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.10.zip
+https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.11.zip
 
 
 Citation:
