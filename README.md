@@ -6,14 +6,14 @@ Downloads:
 
 
 
-V1.11 (64 bit only) For Windows, Ubuntu and Mac OS X
+V1.11b (64 bit only) For Windows, Ubuntu and Mac OS X
 
-https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.11.zip
+https://github.com/huangkang1987/polyrelatedness/raw/master/PolyRelatedness_1.11b.zip
 
 
 Source code for V1.11
 
-https://github.com/huangkang1987/polyrelatedness/raw/master/polyrelatedness_1.11_src.zip
+https://github.com/huangkang1987/polyrelatedness/raw/master/polyrelatedness_1.11b_src.zip
 
 
 
